@@ -1,16 +1,15 @@
 # CodeAlpha Internship – Task 3: Portfolio Website
-This is a clean, responsive Portfolio Website built using HTML, CSS, and JavaScript as part of the Frontend Development Internship at CodeAlpha.
+This is a clean, responsive Portfolio Website built using HTML, CSS, JavaScript as part of the Frontend Development Internship at CodeAlpha.
 
 The portfolio showcases my skills, projects, resume, and contact information.
 
 # 🚀Live Demo
-(Your GitHub Pages Link)
-👉 https://shubham-coder-a.github.io/CodeAlpha_Portfolio/
+![live](👉 https://shubham-coder-a.github.io/CodeAlpha_Portfolio/)
 
 # 📸 Screenshots
 (Add your project screenshots here)
 Example:
-![Portfolio Screenshot](screenshot_portfolio.png)
+![alt text](<Screenshot 2025-12-10 192505.png>)
 
 # 📂 Project Structure
 index.html  
@@ -22,13 +21,13 @@ assets/
     └── icons/
 
 # ⭐ Features
-- Fully responsive layout
-- Modern UI with smooth hover animations
-- Projects section with GitHub & live links
-- Skills, About, and Contact pages
-- Clean and professional design
-- Deployed using GitHub Pages
-- Easy to customize and extend
+- 💠 Fully responsive layout
+- ⚡ Smooth hover animations
+- 📂 Clean sections with details (Skills, Projects, Contact)
+- 🖼️ Image & content design
+- 🚀 Deployed using GitHub Pages
+- 🎨 Easy to customize and extend
+
 
 # 🧑‍💻 Projects Included
 1️⃣ Calculator App
@@ -43,24 +42,26 @@ This Portfolio itself
 # 🛠️ Tech Stack
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
+- Responsive Design
+- Git & GitHub
 
 # 🔗 My Projects Included
-- ✔ Calculator App
-- ✔ Portfolio Website
-- ✔ Add more projects as needed
-- Each project includes:
-- GitHub Repo Link
-- Live Demo Link
+*  ✔ Calculator App
+-   GitHub Repo
+-   Live Demo
+* ✔ Portfolio Website
+-   GitHub Repo
+-   Live Demo
+
 
 # 📦 How to Use / Run
-Clone the repository:
 git clone https://github.com/Shubham-coder-a/CodeAlpha_Portfolio.git
-Open index.html in your browser
-Done! 🎉
+open index.html in your browser
+Done!
 
 
-# 🙋‍♂️ Intern Details
+# 🧑‍💻 Intern Details
 Intern Name: Shubham Raju Nagpure
 Student ID: CA/DE1/7143
 Domain: Frontend Development
